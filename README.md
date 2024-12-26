@@ -14,3 +14,8 @@ try to learn and get good results for HWR
 
 # GUI
 - I made a simple GUI that has a canvas to draw on the word then predict the word and show the bboxes of the letters
+
+# Installing
+- first clone the repo `git clone https://github.com/Abdo-Eid/Handwriting-Recognition.git`
+- then change the directory `cd Handwriting-Recognition`
+- then install the requirements `pip install -r requirements.txt`
